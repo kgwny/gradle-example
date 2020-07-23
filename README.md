@@ -4,4 +4,4 @@
 ```
 $ gradle init --type java-library
 ```
-詳細は[こちら](https://gist.github.com/kgwny/5da020d534b17cfbd85d919aeb975c0a#file-gradle_memo2-txt)
+詳細は[こちら](https://gist.github.com/kgwny/5da020d534b17cfbd85d919aeb975c0a)
